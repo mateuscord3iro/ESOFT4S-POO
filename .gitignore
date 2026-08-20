@@ -1,0 +1,17 @@
+# Pastas de compilacao do Java e IDEs
+bin/
+out/
+target/
+.classpath
+.project
+.settings/
+
+# Configuracoes do VS Code e IntelliJ
+.vscode/
+.idea/
+
+# Arquivos compilados do Java
+*.class
+
+# Logs
+*.log
