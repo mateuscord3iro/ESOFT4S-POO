@@ -6,3 +6,4 @@ Repositório destinado aos exercícios da disciplina de Programação Orientada 
 * **Lista 08:** `src/br/com/cybercorp`
 * **Lista 10:** `src/br/com/techcorp` 
 * **Lista 11:** `src/br/com/nexustech` 
+* **Lista 12:** `src/br/com/technexus` 
