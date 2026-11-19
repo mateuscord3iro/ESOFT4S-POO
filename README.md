@@ -7,5 +7,10 @@ Repositório destinado aos exercícios da disciplina de Programação Orientada 
 * **Lista 10:** `src/br/com/techcorp` 
 * **Lista 11:** `src/br/com/nexustech` 
 * **Lista 12:** `src/br/com/technexus`
-* **ATIVIDADE01_10:** `starlog` 
-* **ATIVIDADE15_10:** `src/br/com/atividade15_10` 
+* **ATIVIDADE01_10:** `starlog`
+* **AULA23KIT:** `lista-23`
+* **AULA24KIT:** `lista-24` 
+* **ATIVIDADE15_10:** `src/br/com/atividade15_10`
+* **AULA26KIT:** `lista-26`
+* **AULA29:** `lista-29/src/br/com/livraria`
+* **AULA30:** `lista-30`
